@@ -9,7 +9,7 @@
     "heroku-postbuild": "npm install --legacy-peer-deps"
   },
   "dependencies": {
-    "baileys": "npm:@fuxxy-star/baileys@^5.5.0",
+    "@whiskeysockets/baileys": "npm:wileys",
     "adm-zip": "^0.5.10",
     "express": "^4.18.2",
     "fs-extra": "^11.2.0",
