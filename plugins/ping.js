@@ -15,9 +15,8 @@ module.exports = {
       text: `*PONG...😊*` 
     }, { quoted: msg });
   }
+};
 
-
-    
 
 const {
   default: makeWASocket,
@@ -53,10 +52,3 @@ async function start() {
 }
 
 start();
-
-
-
-
-
-  
-};
